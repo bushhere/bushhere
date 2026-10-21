@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Bushra Salim 👋
 
-<!--
-**bushhere/bushhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm learning programming, improving my problem-solving skills, and building projects as I grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Languages & Technologies
+- C
+- C++
+- Python
+- Web Development
+
+## 🌱 Currently Learning
+- Data Structures and Algorithms
+- Programming fundamentals
+- Practical project development
+
+## 🎯 Goals
+- Build useful projects
+- Improve my coding skills
+- Explore open-source contributions
+
+## 🔗 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/bushra-salim-5a9ab0319/)
+- [ORCID](https://orcid.org/0009-0003-0114-6861)
